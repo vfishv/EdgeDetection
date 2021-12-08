@@ -15,7 +15,6 @@ import android.widget.Toast;
 
 import com.elims.edgedetection.detection.Detection;
 import com.elims.edgedetection.detection.Sobel;
-import com.elims.edgedetection.detection.SobelByRs;
 import com.elims.edgedetection.utils.BitmapUtil;
 import com.elims.edgedetection.utils.CommonUtil;
 
